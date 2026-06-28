@@ -20,6 +20,7 @@ Examples:
 - `2017_固体物理期末.md` — 2017 exam, no instructor/semester in filename
 - `2016-2017_固体物理期末.md` — academic year 2016–2017 (first semester)
 - `2004_固体物理期末_胡安.md` — 2004 exam by instructor 胡安 (with 章维益)
+- `2013期末_Word版.md` — alternate 2013 exam version, different naming convention
 
 The `README.md` contains a brief description of the transcription project.
 
@@ -35,9 +36,12 @@ The `README.md` contains a brief description of the transcription project.
 The exams cover the standard NJU Solid State Physics curriculum. Recurring topics across the collection:
 
 - **Crystal structure**: Bravais lattices, point groups (点群) and space groups (空间群), primitive vs. conventional cells, Miller indices and interplanar spacing, geometric structure factors and extinction conditions (bcc, fcc, sc, diamond, CsCl, Cu₂O)
-- **Lattice dynamics**: Monatomic chain dispersion, Einstein model, Debye model (density of states, zero-point energy, Debye temperature, low-temperature phonon number, heat capacity)
-- **Electronic band theory**: Nearly-free electron approximation (periodic potential, band gaps at BZ boundaries, wavefunctions), tight-binding approximation (s-orbitals on sc, orthorhombic, tetragonal lattices; E(k) formulas, effective mass tensor, DOS), Wannier functions (orthogonality proof, localization)
-- **Free electron gas**: Fermi energy/wavevector, density of states, average energy per electron, electronic specific heat, Pauli paramagnetism
+- **Lattice dynamics**: Monatomic chain dispersion, Einstein model, Debye model (density of states, zero-point energy, Debye temperature, low-temperature phonon number, heat capacity); phonon branch counting (LO/TO/LA/TA modes for given crystal structures)
+- **Crystal binding**: Madelung energy, Born-Mayer repulsion (NaCl), interatomic potentials and elastic constants, cohesive energy
+- **Electronic band theory**: Nearly-free electron approximation (periodic potential, band gaps at BZ boundaries, wavefunctions), tight-binding approximation (s-orbitals on sc, orthorhombic, tetragonal lattices; E(k) formulas, effective mass tensor, DOS), Wannier functions (orthogonality proof, localization); two-band model for semiconductors (semiclassical dynamics with conduction/valence bands)
+- **Low-dimensional systems**: 2D free electron gas (density of states, finite-T chemical potential), 2D Bravais lattices and Wigner-Seitz cells (graphene as a 2D composite lattice)
+- **Free electron gas**: Fermi energy/wavevector, density of states, average energy per electron, electronic specific heat, Pauli paramagnetism; electron-hole formalism (hole k, energy, effective mass, velocity, equations of motion)
+- **Collective excitations**: Plasmons (plasmon frequency, dependence on electron density), electron correlation and screening
 - **Semiclassical dynamics**: Equations of motion under external E/B fields (k-evolution, cyclotron frequency); Boltzmann equation in relaxation-time approximation
 - **Transport**: Temperature dependence of resistivity (electron-phonon scattering: ρ ∝ T⁵ at low T, ρ ∝ T at high T); Peierls transition
 - **X-ray diffraction**: Bragg's law, powder diffraction patterns, extinction rules
